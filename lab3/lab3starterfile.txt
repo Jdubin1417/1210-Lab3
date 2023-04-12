@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="">
+    <meta name="description" content="CSCI 1710 Lab 1.6">
+    <meta name="keywords" content="csci, 1710, labs, lab 1.6">
+    <title>Lab 1.6</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Volkhov&display=swap" rel="stylesheet">
+    <link rel='stylesheet' href='css/style.css'>
+    <!-- 
+		Author:				
+		Date:				
+		Assignment:			
+		Purpose:			More HTML practice
+	-->
+</head>
+
+<body>
+    <h1>Welcome to College!</h1>
+    <p class='intro'>
+        For some of you, this is your first semester in a university setting. Others have been here a while. Regardless, there are a lot of differences between college life and the schooling you've experienced thus far. Here are some bits of wisdom from various web sites:
+    </p>
+    
+    
+    
+    
+    <!-- some of the above content courtesy of https://www.lifehack.org/articles/lifestyle/13-tips-for-new-college-students.html -->
+
+    <script src='/js/w3c.js'></script>
+</body>
+
+</html>

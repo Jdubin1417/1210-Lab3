@@ -1,0 +1,66 @@
+/*
+    CSS styling for Lab 1.6
+    Author:     Jack
+    Date:       2020-02-08
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    background: rgba(240,240,240,.9);
+    top: 100px;
+    max-width: 800px;
+    margin: auto;
+    font-size: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    background: rgba(50,50,255,.9);
+    color: #eee;
+    padding: 10px 0;
+    position: absolute;
+    top: -140px;
+    left: 0;
+    width: 100%;
+}
+
+p {
+    width: 700px;
+    margin: 20px 50px;
+    padding-left: 15px;
+    font-size: 1.4rem;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-left-color: blue;
+}
+
+p.intro {
+    font-size: 1.6rem;
+    margin: 10px 25px;
+    border-width: 0;
+}
+
+p.intro::first-letter {
+    font-size: 3.7rem;
+    margin-top: -5px;
+    margin-right: 6px;
+    float: left;
+    font-family: 'Volkor', serif;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+ol > li {
+    font-family: 'Volkov', serif;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-weight: 600;
+}
+
